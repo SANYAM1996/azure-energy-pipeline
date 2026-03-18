@@ -67,16 +67,7 @@ The final dataset provides:
 
 ---
 
-## Project Structure
 
-
-├── notebooks/
-│ └── nb_energy_pipeline.py
-├── data/
-│ └── sample_data.csv
-├── architecture/
-│ └── diagram.png
-├── README.md
 
 
 ## Future Improvements
